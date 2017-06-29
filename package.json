@@ -1,0 +1,14 @@
+{
+  "name": "express-error-handling",
+  "version": "1.0.0",
+  "description": "Simple example of error handling with express based services",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Ola Flisbäck <ola.flisback@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
